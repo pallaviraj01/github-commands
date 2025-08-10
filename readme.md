@@ -1,4 +1,4 @@
-# Git & GitHub Command Cheat Sheet
+# Git & GitHub Command
 
 A quick reference for commonly used Git commands to manage repositories efficiently.
 
